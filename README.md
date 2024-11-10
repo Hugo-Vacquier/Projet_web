@@ -8,7 +8,7 @@ Ce site à pour but pour le moment de seulement être fonctionnel en ne se focal
 Pour ce connecter dans la partie Login voici deux identifiants :
 
 Admin : 
-Identifiant : hugo.vacquier@gmail.com 
+Identifiant : hugo.vacquier@gmail.com  
 MDP : JShv151003
 
 Client :
