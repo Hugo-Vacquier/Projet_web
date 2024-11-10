@@ -3,7 +3,8 @@ Projet_developpement_web
 
 Voici le site internet de l'entreprise Meca Technologie.
 
-Ce site à pour but pour le moment de seulement être fonctionnel en ne se focalisant pas encore sur la partie "Attractive" et visuelle d'un site vitrine.
+Ce site à pour but pour le moment de seulement être fonctionnel en ne se focalisant pas encore sur la partie "Attractive" et visuelle d'un site vitrine.  
+Les éléments en footer de page pour les réseaux sociaux ne sont pas encore mis en place car le client ne les as pas encore crées.
 
 Pour ce connecter dans la partie Login voici deux identifiants :
 
