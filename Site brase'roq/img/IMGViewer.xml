@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+    <image>
+        <src>img/image_brasero.jpg</src>
+        <description>Un magnifique braséro de Brase'ROQ pour vos soirées en plein air.</description>
+    </image>
+    <image>
+        <src>img/image_garde_corps.jpg</src>
+        <description>Garde-corps métallique moderne pour sécuriser votre espace avec style.</description>
+    </image>
+    <image>
+        <src>img/image_escalier.jpg</src>
+        <description>Escalier en métal et bois, design moderne et fonctionnel.</description>
+    </image>
+</images>

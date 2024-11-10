@@ -1,0 +1,49 @@
+/* print.css */
+@media print {
+    /* Masquer les éléments non nécessaires à l'impression */
+    header, footer, nav, .sidebar, .social-icons, .button, .form, .carousel {
+        display: none;
+    }
+
+    /* Ajuster le corps du texte pour être plus lisible */
+    body {
+        color: #000;
+        background: #fff;
+        font-size: 12pt;
+        line-height: 1.5;
+        margin: 1cm;
+    }
+
+    /* Adapter les titres et les paragraphes pour l'impression */
+    h1, h2, h3 {
+        color: #000;
+    }
+
+    /* Ajuster les liens pour être lisibles */
+    a {
+        color: #000;
+        text-decoration: underline;
+    }
+    
+    /* Ajuster les images : elles peuvent être masquées si elles ne sont pas importantes */
+    img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    /* Définir une mise en page pour le contenu principal */
+    .main-content {
+        width: 100%;
+    }
+    
+    /* Styliser les tables si elles sont présentes */
+    table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #333;
+        padding: 8px;
+        text-align: left;
+    }
+}
