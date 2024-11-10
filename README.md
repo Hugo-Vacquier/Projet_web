@@ -14,3 +14,9 @@ MDP : JShv151003
 Client :  
 Identifiant : eliott.vacquier@gmail.com  
 MDP : JSev110906
+
+La partie client conserve l'historique des demandes de renseignement par produit.
+La partie admin permet :  
+d'ajouter un produit pour le tester je vous laisse deux images à télécharger en local que vous pouvez ensuite sélectionner pour ajouter en tant que produit.  
+Pour supprimer un produit il faudra entrer son ID (demande du client) que vous pouvez trouver dans l'export de la base de données. supprimer l'ID 12 si vous voulez tester par exemple.
+
