@@ -15,7 +15,7 @@ Client :
 Identifiant : eliott.vacquier@gmail.com  
 MDP : JSev110906
 
-La partie client conserve l'historique des demandes de renseignement par produit.
+La partie client conserve l'historique des demandes de renseignement par produit.  
 La partie admin permet :  
 
 D'ajouter un produit pour le tester je vous laisse deux images à télécharger en local que vous pouvez ensuite sélectionner pour ajouter en tant que produit.  
